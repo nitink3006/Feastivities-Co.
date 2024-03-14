@@ -235,6 +235,7 @@ nav svg {
   font-size: 2rem;
 }
 .contact .banner .item p {
+  text-align: center;
   color: grey;
 }
 .contact .banner:last-child .item {
